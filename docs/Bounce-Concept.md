@@ -1,4 +1,4 @@
-                                         # Why One Brain Is Not Enough
+# Why One Brain Is Not Enough
 
 
 ## Why would you trust a single AI?
