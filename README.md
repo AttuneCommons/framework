@@ -9,9 +9,8 @@
 * [Why bacteria matters](#why-bacteria-matters)
 * [Beyond the body](#beyond-the-body)
 
-The first piece described the problem. The industry builds better parts. Nobody builds the body. The second piece showed how the body governs itself. The third showed how the body validates what it knows.
 
-This piece shows where the body comes from.
+**This piece shows where the body comes from**
 
 ## Four biological models
 
