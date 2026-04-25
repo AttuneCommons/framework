@@ -1,5 +1,9 @@
 # Why One Brain Is Not Enough
 
+> **Editor's note (2026-04-25):** This file is a pre-rebrand draft from when the project was named ATTUNE / AttuneCommons. The project has since been renamed BAION (Biological AI Orchestration Network); the active organization is [BaionSyS/framework](https://github.com/BaionSyS/framework). The canonical Piece 3 — *Without Convergence, Nothing Holds* — was subsequently published on Dev.to: <https://dev.to/samullinsjr/without-convergence-nothing-holds-on5>. This file is preserved as historical record per `BAION_PUBLICATION_REVISION_POLICY` §2.2. Body below is unchanged from original publication.
+
+---
+
 You would not trust one doctor with a life-or-death diagnosis. You would get a second opinion. You would not trust a single witness in a trial without corroboration. You would not trust a single sensor in a cockpit without redundancy.
 
 Why would you trust a single AI?

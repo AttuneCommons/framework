@@ -29,7 +29,6 @@ BAION — the **Biological AI Orchestration Network** — is not inspired by a s
 
 ### The BAION Architecture
 BAION has a **mycelium** foundation, a **bacterial** consensus layer, an **octopus** body, and a **human** brain — connected by a **thalamus** equivalent that translates between the distributed lower layers and the integrated upper layers.
-{% endcard %}
 
 Below the thalamus, octopus and bacterial principles dominate. Above it, human principles dominate. At the atomic level, mycelium principles define the simplest unit of computation. Running through every layer where validation matters, bacterial principles govern how independent processors reach agreement.
 
@@ -46,7 +45,9 @@ Bacteria is where Bounce comes from.
 
 The independent AI models are the **autoinducers**. Each one produces its evaluation independently. The shared evaluation space is the **medium**. The convergence threshold is the **activation threshold**. When the threshold is crossed, the result is trusted.
 
-{% details The Eight Atomic Operations %}
+<details>
+<summary><strong>The Eight Atomic Operations</strong></summary>
+
 When you decompose bacterial quorum sensing, you find eight distinct single-job functions. These map cleanly onto the same set of atomic operations that govern mycelium, octopus, and human body systems:
 
 1. Production
@@ -59,7 +60,8 @@ When you decompose bacterial quorum sensing, you find eight distinct single-job 
 8. Degradation
 
 *(Note: These operations ensure the foundation is built at the right level of abstraction.)*
-{% enddetails %}
+
+</details>
 
 ## Beyond the body
 
@@ -71,8 +73,4 @@ How do two organisms share resources without merging? How do symbiotic relations
 
 **BAION — Biological AI Orchestration Network.**
 
-{% embed https://github.com/BaionSyS/framework %}
-
-{% cta https://github.com/BaionSyS/framework %}
-View the Full Documentation on GitHub
-{% endcta %}
+[Read the framework docs](./docs/)

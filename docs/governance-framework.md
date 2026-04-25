@@ -46,9 +46,9 @@ Terms of service describe what a company promises to do. Governance architecture
 
 BAION builds walls.
 
-##BAION — Biological AI Orchestration Network
+## BAION — Biological AI Orchestration Network
 
-##This is Piece 2 of the BAION framework series
+## This is Piece 2 of the BAION framework series
 
 Full framework and documentation: github.com/BaionSyS/framework
 
